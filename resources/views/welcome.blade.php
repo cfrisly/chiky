@@ -128,5 +128,11 @@
                 </div>
             </div>
         </div>
+
+        <footer>
+            <div>
+                esto es un pie de pagina realizado por Frisly.
+            </div>
+        </footer>
     </body>
 </html>
